@@ -12,6 +12,7 @@ import chooseCity from './chooseCity'
 import form from './form'
 import modalForm from './modalForm'
 import table from './table'
+import calendar from './calendar'
 const components = [
     chooseArea,
     chooseIcon,
@@ -25,7 +26,8 @@ const components = [
     chooseCity,
     form,
     modalForm,
-    table
+    table,
+    calendar
 ]
 export default{
     install(app: App){
