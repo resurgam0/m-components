@@ -202,7 +202,6 @@ let options: FormOptions[] = [
   }
 ]
 let confirm = (form:any)=>{
-  console.log(form,'-------')
   let validate = form.validate()
   validate((valid: boolean) => {
     if (valid) {

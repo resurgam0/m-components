@@ -12,6 +12,7 @@
     "@element-plus/icons-vue": "^2.3.1",
     "@types/lodash": "^4.17.5",
     "@types/node": "^20.12.12",
+    "axios": "^1.7.2",
     "element-plus": "^2.7.3",
     "lodash": "^4.17.21",
     "vue": "^3.4.21",
